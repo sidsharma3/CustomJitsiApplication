@@ -1,0 +1,20 @@
+#Fri Dec 24 00:02:16 UTC 2021
+configuration*?=2A57C2FA06FCA509E9634DFD618B86332AE7ED3C
+/root/jitsiQuick/jitsi-Media-Transform-mod/jitsi-media-transform/src/main/java/org/jitsi_modified/impl/neomedia/codec/video/h264/DePacketizer.java=1639673536317
+/root/jitsiQuick/jitsi-Media-Transform-mod/jitsi-media-transform/src/main/java/org/jitsi_modified/impl/neomedia/rtp/remotebitrateestimator/InterArrival.java=1639673536321
+/root/jitsiQuick/jitsi-Media-Transform-mod/jitsi-media-transform/src/main/java/org/jitsi_modified/impl/neomedia/codec/video/vp9/DePacketizer.java=1639673536321
+/root/jitsiQuick/jitsi-Media-Transform-mod/jitsi-media-transform/src/main/java/org/jitsi_modified/impl/neomedia/rtp/remotebitrateestimator/OveruseDetector.java=1639673536321
+/root/jitsiQuick/jitsi-Media-Transform-mod/jitsi-media-transform/src/main/java/org/jitsi_modified/impl/neomedia/rtp/remotebitrateestimator/RateControlInput.java=1639673536321
+/root/jitsiQuick/jitsi-Media-Transform-mod/jitsi-media-transform/src/main/java/org/jitsi_modified/impl/neomedia/transform/PacketTransformer.java=1639673536321
+/root/jitsiQuick/jitsi-Media-Transform-mod/jitsi-media-transform/src/main/java/org/jitsi_modified/impl/neomedia/rtp/remotebitrateestimator/RateControlState.java=1639673536321
+/root/jitsiQuick/jitsi-Media-Transform-mod/jitsi-media-transform/src/main/kotlin/org/jitsi/nlj/rtcp/RtcpListener.java=1639673536325
+/root/jitsiQuick/jitsi-Media-Transform-mod/jitsi-media-transform/src/main/java/org/jitsi_modified/impl/neomedia/rtp/remotebitrateestimator/BandwidthUsage.java=1639673536321
+/root/jitsiQuick/jitsi-Media-Transform-mod/jitsi-media-transform/src/main/java/org/jitsi_modified/impl/neomedia/codec/video/vp8/DePacketizer.java=1639673536321
+/root/jitsiQuick/jitsi-Media-Transform-mod/jitsi-media-transform/src/main/java/org/jitsi_modified/impl/neomedia/rtp/sendsidebandwidthestimation/SendSideBandwidthEstimation.java=1639684950499
+/root/jitsiQuick/jitsi-Media-Transform-mod/jitsi-media-transform/src/main/java/org/jitsi_modified/impl/neomedia/codec/video/h264/H264.java=1639673536321
+/root/jitsiQuick/jitsi-Media-Transform-mod/jitsi-media-transform/src/main/java/org/jitsi_modified/impl/neomedia/rtp/remotebitrateestimator/OverUseDetectorOptions.java=1639673536321
+/root/jitsiQuick/jitsi-Media-Transform-mod/jitsi-media-transform/src/main/java/org/jitsi_modified/impl/neomedia/rtp/remotebitrateestimator/OveruseEstimator.java=1639673536321
+/root/jitsiQuick/jitsi-Media-Transform-mod/jitsi-media-transform/src/main/java/org/jitsi_modified/impl/neomedia/rtp/remotebitrateestimator/RemoteBitrateEstimatorAbsSendTime.java=1639673536321
+/root/jitsiQuick/jitsi-Media-Transform-mod/jitsi-media-transform/src/main/java/org/jitsi_modified/impl/neomedia/rtp/remotebitrateestimator/RemoteBitrateObserver.java=1639673536321
+/root/jitsiQuick/jitsi-Media-Transform-mod/jitsi-media-transform/src/main/java/org/jitsi_modified/impl/neomedia/rtp/remotebitrateestimator/RateControlRegion.java=1639673536321
+/root/jitsiQuick/jitsi-Media-Transform-mod/jitsi-media-transform/src/main/java/org/jitsi_modified/impl/neomedia/rtp/remotebitrateestimator/AimdRateControl.java=1639673536321

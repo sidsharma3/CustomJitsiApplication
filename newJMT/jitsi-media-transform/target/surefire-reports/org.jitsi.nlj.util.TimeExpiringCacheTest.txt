@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.jitsi.nlj.util.TimeExpiringCacheTest
+-------------------------------------------------------------------------------
+Tests run: 17, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.031 s - in org.jitsi.nlj.util.TimeExpiringCacheTest

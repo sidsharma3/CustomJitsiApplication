@@ -1,0 +1,8 @@
+org/jitsi/videobridge/xmpp/MediaSourceFactoryTest.class
+org/jitsi/videobridge/rest/root/colibri/ColibriResourceTest.class
+org/jitsi/videobridge/cc/vp8/VP8AdaptiveSourceProjectionTest$ProjectedPacket.class
+org/jitsi/videobridge/ColibriUtilities.class
+org/jitsi/videobridge/cc/vp8/VP8AdaptiveSourceProjectionTest$Vp8PacketGenerator.class
+org/jitsi/videobridge/rest/MockBinder.class
+org/jitsi/videobridge/cc/vp8/VP8AdaptiveSourceProjectionTest.class
+org/jitsi/videobridge/Util.class
